@@ -8,4 +8,6 @@ Opis: Zadanie ma na celu przećwiczenie w praktyce tworzenie komponentów w reac
 
 Rozwiązania, tchnologie i narzędzia:
 - HTML 5
+- CSS 3
+- RWD
 - React
